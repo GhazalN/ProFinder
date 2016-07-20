@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> Home </title>
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+		<link rel="stylesheet" type="text/css" href="tutorialpage.css">
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+	</head>
+
+	<body>	
+		
+		<!--First Page-->
+
+		<div data-role="page" id="FirstPage">
+
+			<div data-role="header">
+   				<h1>Pro Finder</h1>
+   			</div>
+   			
+
+   			<!--This is where all the parts of my website goes-->
+			<div data-role="main" class="ui-content">
+		
+ 			     		<a href="#myPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow"> Tutorial of the App</a>
+ 				</div>
+
+ 				
+
+ 			   	<div data-role="panel" id="myPanel"> 
+ 			    	<h2>Welcome to the tutorial</h2>
+ 			    	<p>Here you will find all of the categories you can choose from.
+ 			    	<br><br>
+ 			    	Once you choose the category you want, you can filter your seach depending on the category you chose. After that our team will present you with options that are sutible for you, to find your perfect match.
+ 			    	</p>
+
+ 			 	</div>
+
+
+ 	</div>
+		<!--End of First Page-->
+	</body>
+</html>
