@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+	<title>JQuery Tutorial</title>
+
+	<!-- Include meta tag to ensure proper rendering and touch zooming -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Include jQuery Mobile stylesheets -->
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+	<!-- Include the jQuery library -->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<!-- Include the jQuery Mobile library -->
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+</head>
+
+<body>
+	
+	<style>
+		.ui-page {background-color:#B0C4DE}
+	</style>
+
+	<!-- Third Page --> 
+	<div data-role="page" id="ThirdPage">
+
+		<div data-role="header">
+		   <h1>Scholarships</h1>   
+		</div>
+
+	<i>
+		<div>
+			<h4 style="text-align:center">Filter Your Search</h4>
+		</div>
+	</i>
+
+	<center><div style="width:500px;height:415px; margin-left: auto; margin-right: auto;"><form>
+		
+		<label>
+			<input type="checkbox" name="checkbox-0">English
+		</label>
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Science
+		</label>
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Math
+		</label>	
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Languages
+		</label>
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Sports
+		</label>
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Education
+		</label>
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Art
+		</label>
+
+		<label>
+			<input type="checkbox" name="checkbox-0">Global/History
+		</label> 
+	
+	</form></div></center>
+
+			<div align="center" data-role="controlgroup" data-type="horizontal">
+		 
+				<a href="#" class="ui-btn">Submit</a>
+		
+			</div> 
+
+
+</body>
+
+<html>
+
+
+
+
+
