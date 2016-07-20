@@ -1,0 +1,4 @@
+.ui-page-theme-a 
+.ui-panel-wrapper {
+	background-color: #B0C4DE; 
+}
