@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>JQuery Tutorial</title>
+
+		<!-- Include meta tag to ensure proper rendering and touch zooming -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Include jQuery Mobile stylesheets -->
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+		<!-- Include the jQuery library -->
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+		<!-- Include the jQuery Mobile library -->
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+	</head>
+
+	<body>
+
+		<style>
+		.ui-page {background-color:#B0C4DE}
+		</style>
+
+		<!--First Page-->
+		<div data-role="page" id="FirstPage">
+
+		<div data-role="header">
+		   <h1>Task Bar</h1>
+
+		</div>
+		
+		<center><div style="width:500px;height:500px; margin-left: auto ; margin-right: auto;"><form>
+
+		<di4v data-role="controlgroup" data-type="vertical"><form>
+
+		  	<label for="search">Search</label>
+			<input type="search" name="password" id="search" placeholder="Search">
+		  <a href="#" class="ui-btn">Jobs</a>
+		  <a href="#" class="ui-btn">Volunteer</a>
+		  <a href="#" class="ui-btn">Learning Programs</a>
+		  <a href="#" class="ui-btn">Scholarships</a>
+		  <a href="#" class="ui-btn">Internships</a>
+		  <a href="#" class="ui-btn">School Contests</a>
+		  <a href="#" class="ui-btn">Contact Us</a>
+		  <a href="#" class="ui-btn">Help</a>
+
+		</div></form>
+
+		</center></div></form>
+
+		<!-- this is where all my parts of the website go -->
+		<div data-role="main" class="ui-content">
+		    <p></p>
+		    <a href=""></a>
+
+		</div> 
+
+	</div>
+
+
+	</body>
+
+
+</html>
+
