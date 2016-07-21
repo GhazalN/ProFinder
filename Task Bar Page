@@ -20,23 +20,20 @@
 	<body>
 
 		<style>
-		.ui-page {background-color:#B0C4DE}
+		.ui-page {background-color:#e5b292}
 		</style>
 
 		<!--First Page-->
 		<div data-role="page" id="FirstPage">
 
-		<div data-role="header">
-		   <h1>Task Bar</h1>
-
+		<div data-role="header" style="margin-bottom:35px">
+		  <h1>Task Bar</h1>
 		</div>
 		
-		<center><div style="width:500px;height:500px; margin-left: auto ; margin-right: auto;"><form>
+		<center><div style="width:500px;height:500px; margin-left: auto; margin-right: auto;" ><form>
 
 		<di4v data-role="controlgroup" data-type="vertical"><form>
 
-		  	<label for="search">Search</label>
-			<input type="search" name="password" id="search" placeholder="Search">
 		  <a href="#" class="ui-btn">Jobs</a>
 		  <a href="#" class="ui-btn">Volunteer</a>
 		  <a href="#" class="ui-btn">Learning Programs</a>
@@ -64,4 +61,3 @@
 
 
 </html>
-
