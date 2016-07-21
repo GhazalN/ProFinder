@@ -3,25 +3,39 @@
 	<head>
 		<title>Contact Us</title>
 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-		<link rel="stylesheet" type="text/css" href="contactpage.css">
+		<link rel="stylesheet" type="text/css" href="contactpage.css">	
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.4.5/jquery mobile-1.4.5.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 	</head>
 	<body>
 		<!--Contact Page-->
+		<center>
 		<div data-role="page" id="ContactPage">
 
 			<div data-role="header">
 		   		<h1>Contact Us</h1>
 		   	</div>
+		   	<div data-role="main" class="ui-content" style="width: 500px;">
+		   	    <form method="post" action="demoform.asp">
+		   	      <div class="ui-field-contain">
+		   	        <label for="fullname">Full name:</label>
+		   	        <input type="text" name="fullname" id="fullname" placeholder="Full name...">
+		   	        <label for="email">E-mail:</label>
+		   	        <input type="email" name="email" id="email" placeholder="Your email..">
+		   	        <label for="info">Your Message:</label>
+       			 <textarea name="addinfo" id="info"></textarea>
+     			 </div>
+   				 <input type="submit" data-inline="true" value="Submit">
+		   	     </form>
+		   	  </div>
+
+		</div>
+
+
+		</center>
 		<!--The rest of the website-->
-		
-		
-		
-		
-		
-		
-		
-	</div>
+			
+	</body>	
 </html>
