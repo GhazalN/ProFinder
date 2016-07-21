@@ -22,7 +22,7 @@
 <body>
 
 	<style>
-		.ui-page {background-color:#B0C4DE}
+		.ui-page {background-color:#e5b292}
 	</style>
 
 	<!-- Second Page --> 
@@ -100,5 +100,4 @@
 </body> 
 
 </html>
-
 
