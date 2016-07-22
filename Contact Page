@@ -30,6 +30,18 @@
    				 <input type="submit" data-inline="true" value="Submit">
 		   	     </form>
 		   	  </div>
+		   	  <p><i>Contact Us:</i>
+		   	  	<br><br>
+		   	  	<i>Email: </i> profinder@gmail.com
+		   	  	<br><br>
+		   	  	<i>Phone number: </i> (212)-345-1987 
+		   	  	<br><br>
+		   	  	<i>P.O. Box: </i> Pro Finder
+		   	  	<br><br>
+		   	  	PO Box 2275
+		   	  	<br><br>
+		   	  	New York, NY 11176
+		   	  </p>
 
 		</div>
 
