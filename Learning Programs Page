@@ -34,14 +34,20 @@
 		
 		</div>
 
-	<center><div style="width:500px;height:530px; margin-left: auto ; margin-right: auto;"><form>
+	<center><div style="width:500px;height:580px; margin-left: auto ; margin-right: auto;"><form>
+
+		<h4 style="text-shadow:none;">Courses</h4>
 
 		<label>
-			<input type="checkbox" name="checkbox-0">Morning Session
-		</label> 
+			<input type="checkbox" name="checkbox-0">English 
+		</label>
+		
+		<label>
+			<input type="checkbox" name="checkbox-0">History  
+		</label>
 
 		<label>
-			<input type="checkbox" name="checkbox-0">Afternoon Session
+			<input type="checkbox" name="checkbox-0">Mathematics
 		</label>
 
 		<label>
@@ -49,50 +55,42 @@
 		</label>	
 
 		<label>
+			<input type="checkbox" name="checkbox-0">Science 
+		</label>
+
+		<label>
 			<input type="checkbox" name="checkbox-0">STEM
 		</label>
 
 		<label>
-			<input type="checkbox" name="checkbox-0">Mathematics Course
+			<input type="checkbox" name="checkbox-0">Technology  
 		</label>
 
-		<label>
-			<input type="checkbox" name="checkbox-0">Science Course
-		</label>
+		<h4 style="text-shadow:none;">Time</h4>
 
-		<label>
-			<input type="checkbox" name="checkbox-0">English Course
-		</label>
+			<label>
+				<input type="checkbox" name="checkbox-0">Morning 
+			</label> 
 
-		<label>
-			<input type="checkbox" name="checkbox-0">History Course 
-		</label>
+			<label>
+				<input type="checkbox" name="checkbox-0">Afternoon 
+			</label>
 
-		<label>
-			<input type="checkbox" name="checkbox-0">Technology Course 
-		</label>
-
-		<label>
-			<input type="checkbox" name="checkbox-0">Other
-		</label>
 
 	</form></div></center>
 	
-	<div p{
-	 
-	padding-bottom: 50px;
-
-	}>
-
-	</div>
-
+	
 	<div align="center" data-role="controlgroup" data-type="horizontal">
 	 
 	  <a href="#" class="ui-btn">Submit</a>
 	
 	</div>
 
+	<div data-role="footer">
+		<h4>Learning Programs</h4>
+	</div>
+
+
 </body> 
 
 </html>
-
