@@ -14,25 +14,24 @@
 		<!--First Page-->
 
 		<div data-role="page" id="FirstPage">
-
-			<div data-role="header">
-   				<h1>Pro Finder</h1>
-   			</div>
    			
 
    			<!--This is where all the parts of my website goes-->
 			<div data-role="main" class="ui-content">
-		
- 			     		<a href="#myPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow"> Tutorial of the App</a>
- 				</div>
-
+				<center>
+ 			    		<img src="http://image.prntscr.com/image/e137025d746e4bb1b6bb1d1920ccf689.png" alt="Home screen" height="475" width="561">
+ 			    </center>
+ 	
+ 			    <a href="#myPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow"> Tutorial of the App</a>
+ 			</div>
  				
-
  			   	<div data-role="panel" id="myPanel"> 
  			    	<h2>Welcome to the tutorial</h2>
  			    	<p>Here you will find all of the categories you can choose from.
  			    	<br><br>
- 			    	Once you choose the category you want, you can filter your seach depending on the category you chose. After that our team will present you with options that are sutible for you, to find your perfect match.
+ 			    	Once you choose the category you want, you can filter your seach depending on the category you chose.After that our team will present you with options that are sutible for you, to find your perfect match.
+ 			    	<br><br>
+ 			    	Within the options we provide you with find the company, the position they are looking for, how much they are willing to pay for you, the time you will be there as well as their location and contact information.
  			    	</p>
 
  			 	</div>
