@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>STEM Opportunities</title>
+
+	<!-- Include meta tag to ensure proper rendering and touch zooming -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Include jQuery Mobile stylesheets -->
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+	<!-- Include the jQuery library -->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<!-- Include the jQuery Mobile library -->
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+</head>
+
+<body>
+
+	<style>
+		.ui-page {background-color:#e5b292}
+	</style>
+
+
+	<div data-role="page" id="SecondPage">
+
+		<div data-role="header">
+		 
+		   <h1>STEM Opportunities</h1>   
+		
+		</div>
+
+	</div>
+
+	<div>
+		<p style="text-shadow:none; text-align:center">
+		1. <i>Afterschool from 3:30-4:30pm Mondays and Thursdays<br></i>
+		The Young Womens Leadership School of Astoria<br>
+		23-15 Newton Ave, Astoria, NY 11102<br>
+		(718)-267-2839<br>
+		<i><u>Website Link</u></i>
+		<br>
+		<br>
+
+		2. <i>From 2:30-4:30pm Tuesdays and Thursdays<br></i>
+		Cooper Union<br>
+		30 Cooper Sq, New York, NY 10003<br>
+		(212)-353-4100<br>
+		<i><u>Website Link</u></i>
+		<br>
+		<br>
+
+		</p>
+
+	</div> 
+
+
+</body> 
+
+
+</html>
+
+
