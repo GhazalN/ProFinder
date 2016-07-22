@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title>Scholarships</title>
+
+	<!-- Include meta tag to ensure proper rendering and touch zooming -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Include jQuery Mobile stylesheets -->
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+	<!-- Include the jQuery library -->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<!-- Include the jQuery Mobile library -->
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+</head>
+
+<body>
+
+	<style>
+		.ui-page {background-color:#e5b292}
+	</style>
+
+
+	<div data-role="page" id="FirstPage">
+
+		<div data-role="header"> 
+		   <h1>Mathematics Scholarships</h1>  
+		</div>
+		
+		<p style="text-shadow:none; text-align:center">
+		1. <i>Fastweb<br></i>
+		Email:info@Fastweb.com<br>
+		<i><u>fastweb.com</u></i>
+		<br>
+		<br>
+
+		2. <i>Scholarships<br></i>
+		(847)-432-1700<br>
+		<i><u>scholarships.com</u></i>
+		<br>
+		<br>
+
+		</p>
+ 
+	</div>
+</body>
+
+
+
+
+
+
+</html>
+
+
+
+
