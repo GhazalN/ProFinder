@@ -1,0 +1,65 @@
+<!DOCTYPE html> 
+	<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	</head>
+	<body>
+	<style>
+	.ui-page {background-color:#e5b292}
+	</style> 
+
+	<div data-role="page" id="FirstPage">
+				<div data-role="header">
+				<h1>Writing Contests</h1>
+				</div>
+	<center>
+
+		<div data-role="collapsible">
+			<h3>Writing Contests</h3>
+			<p> Fictional Story Contest
+
+</p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Science Contests</h3>
+			<p> Your task is to scare the judges! Use suspense and a little mystery in your story. Word limit is under 2,000 words. The deadline for this contest is on 8/30/16. </p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Math Contents</h3>
+			<p>Your task is to write about anything people can learn from. Make sure your piece of writing informs the audience about what your topic is. The deadline for this contest is on 9/25/16. </p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Global Contests</h3>
+			<p> Your task is to be creative in creating any type of poem you’d like. The deadline for this contest is on 9/30/16 <p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Art Contests</h3>
+			<p>Your task is to write a fiction story in exactly one thousand words! Not 999 words and not 1001 words. The deadline for this contest is on 10/15/16. <p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Reading Contests</h3>
+			<p>h</p>
+		</div>
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+		</html>
