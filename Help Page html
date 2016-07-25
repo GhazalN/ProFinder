@@ -1,0 +1,45 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<title>Help Page</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+		<link rel="stylesheet" type="text/css" href="helppage.css">	
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	</head>
+	<body>
+		<!--Start of website-->
+		<div data-role="page" id="Help Page">
+
+			<div data-role="header">
+		   		<h1>Help Page</h1>
+		   	</div>
+		<center>
+		<i>
+			<h4 style="text-shadow:none;">Is the location necessary?</h4>
+		</i>
+		<p style="text-shadow:none;"> Yes, it is. We understand that sharing your location is very personal, which is why you created a safe account, so that no one can have access to it but us.
+		<i>
+			<h4 style="text-shadow:none;"> Is there anything that I need to pay for?</h4>
+		</i>
+		<p style="text-shadow:none;"> No, there is nothing for you to pay for, this is absolutely free.</p>
+		<i>
+			<h4 style="text-shadow:none;">What can I exactly look for in this webapp?</h4>
+		</i>
+		<p style="text-shadow:none;">Many opportunities at the reach of your finger tips. The categories can range from internships to writing contests</p>
+		<i>
+			<h4 style="text-shadow:none;"> Is this only in the New York area?</h4>
+		</i>
+		<p style="text-shadow:none;"> For now, yes it is because we want to start off small, like every other company, and expand as the years pass by. So our goal for this app is to be global so that all high school students are able to use this app.
+		<i>
+			<h4 style="text-shadow:none;"> How can I edit my location if I made a mistake?</h4>
+		</i>
+		<p style="text-shadow:none;"> </p>
+
+	</center>
+		<!--End of website-->
+</body>
+
+
+</html>
