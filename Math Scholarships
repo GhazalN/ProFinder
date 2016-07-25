@@ -32,6 +32,11 @@
 		   <h1>Mathematics Scholarships</h1>  
 		</div>
 		
+<div data-role="collapsible">
+
+	<h3 style="text-shadow:none; text-align:center">Math</h3>
+ 	  <p style="text-shadow:none; text-align:center"> 
+
 		<p style="text-shadow:none; text-align:center">
 		1. <i>Fastweb<br></i>
 		Email:info@Fastweb.com<br>
@@ -47,7 +52,9 @@
 
 		</p>
  
-	</div>
+</div>
+
+
 </body>
 
 
@@ -56,6 +63,17 @@
 
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
