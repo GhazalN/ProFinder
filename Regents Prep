@@ -22,7 +22,7 @@
 <body>
 
 	<style>
-		.ui-page {background-color:#e5b292}
+		.ui-page {background-color:#A2D3CD}
 	</style>
 
 
@@ -65,12 +65,33 @@
 </div>
 
 
+<div data-role="collapsible">
+
+	<h3 style="text-shadow:none; text-align:center;">Global and World History</h3>
+	<p style="text-shadow:none; text-align:center">
+
+		<i>Sunday from 8:30-11:30am</i><br>
+		The Young Womens Leadership School of Queens<br> 
+		150-91 87th Rd, Jamaica, NY 11432<br> 
+		(718) 725-0402<br> 
+		<br> 
+		<br> 
+
+	</p>
+
+</div>
+
+
 
 </body>
 
 
 
+
 </html>
+
+
+
 
 
 
