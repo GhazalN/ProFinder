@@ -20,7 +20,7 @@
 	<body>
 
 		<style>
-		.ui-page {background-color:#e5b292}
+		.ui-page {background-color:#A2D3CD}
 		</style>
 
 		<!--First Page-->
@@ -32,7 +32,7 @@
 		
 		<center><div style="width:500px;height:500px; margin-left: auto; margin-right: auto;" ><form>
 
-		<di4v data-role="controlgroup" data-type="vertical"><form>
+		<div data-role="controlgroup" data-type="vertical"><form>
 
 		  <a href="#" class="ui-btn">Jobs</a>
 		  <a href="#" class="ui-btn">Volunteer</a>
@@ -45,7 +45,7 @@
 
 		</div></form>
 
-		</center></div></form>
+		</center></form>
 
 
 	</body>
