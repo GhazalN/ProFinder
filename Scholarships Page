@@ -23,7 +23,7 @@
 <body>
 	
 	<style>
-		.ui-page {background-color:#e5b292}
+		.ui-page {background-color:#A2D3CD}
 	</style>
 
 	<!-- Third Page --> 
@@ -73,6 +73,8 @@
 
 
 </body>
+
+
 
 <html>
 
