@@ -22,7 +22,7 @@
 <body>
 
 	<style>
-		.ui-page {background-color:#e5b292}
+		.ui-page {background-color:#A2D3CD}
 	</style>
 
 	<!-- Second Page --> 
@@ -86,11 +86,11 @@
 	
 	</div>
 
-	<div data-role="footer">
-		<h4>Learning Programs</h4>
-	</div>
+
 
 
 </body> 
 
 </html>
+
+
