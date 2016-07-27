@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+	<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+	</head>
+	<body>
+	<style>
+	.ui-page {background-color:#e5b292}
+	</style> 
+
+
+
+	<div data-role="page" id="FirstPage">
+				<div data-role="header">
+				<h1>School Contests</h1>
+				</div>
+	<center>
+
+		<div style="width:600px; height:500px;">
+
+		<div data-role="collapsible">
+			<h3>Writing Contests (6) </h3>
+			<p> <a href="">Fictional story contest Application</a>  <br> <a href="">Horror Story Contest Application</a> <br>  <a href="">Non-Fiction Story Contest Application</a> <br><a href="">Poetry Contest Application</a> <br> <a href="">1,000 Word Contest Application</a> <br> <a href="">Love The Limit Contest Application</a> 
+
+</p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Science Contests (7) </h3>
+			<p> <a href="">Your Own Invention Contest Application</a>  <br> <a href="">Science Fun Contest Application</a> <br> <a href="">Best Skeleton Diagram Contest Application</a>  <br> <a href="">Solar System Diagram Contest Application</a> 
+		<br>  <a href="">Experiment Contest Application</a> <br> <a href="">The Cell Talk Contest Application</a> <br> <a href="">Science Microscope Contest Apllication</a> 
+
+
+</p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Math Contents (6)</h3>
+			<p><a href="">One Minute Contest Application</a> <br> <a href="">Three Day Problem Contest Application</a><br> <a href="">Math-O-Vision Contest Application</a> <br> <a href="">CII Contest Application</a><br> <a href="">Math to go Contest Application</a><br> <a href=""> Problem Solver Contest Application</a> </p>
+		</div>
+
+	
+
+		<div data-role="collapsible">
+			<h3>Art Contests (13) </h3>
+			<p> <a href="">Best Face Drawing Contest Application</a><br> <a href="">Picture Collage Contest Application</a> <br><a href=""> RotoArt Contest Application</a><br> <a href="">Designing For The Future Contest Application</a> <br> <a href=""> Cultural Art Contest application</a> <br> <a href=""> Adobe Youth Voices Contest Application</a> <br> <a href="">Doodle 4 Google Contest Application </a> <br> <a href="">Live it. Sketch it. Share it. Design Contest Application</a> <br> <a href="">Ocean Awareness Student Contest Application</a> <br> <a href="">High school Art Contest Application</a> <br> <a href="">Mystery Build Contest application</a> <br> <a href="">Take A Shot At Changing The World Contest Application</a> <br> <a href="">The Berks Photographic Society high school Photography Contest</a>  <p>
+		</div>
+
+		<div data-role="collapsible">
+			<h3>Reading Contests (3) </h3>
+			<p> <a href="">New York Reading Contest Application</a> <br> <a href="">Read-To-Go Contest Application</a> <br> <a href="">Reading To The Future Contest Application</a></p>
+		</div>
+
+	</center>
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+		</html>
