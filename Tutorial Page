@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
 	<head>
-		<title> Home </title>
+		<title>Tutorial Page </title>
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 		<link rel="stylesheet" type="text/css" href="tutorialpage.css">
 		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
@@ -11,7 +11,7 @@
 
 	<body>	
 		
-		<!--First Page-->
+		<!--Start of website-->
 
 		<div data-role="page" id="FirstPage">
    			
@@ -35,9 +35,12 @@
  			    	</p>
 
  			 	</div>
+ 			 <div data-role="main" class="ui-content">
+ 			 	<a href="#skiptutorial" class="ui-btn ui-btn-inline" style="margin-left:1100px; margin-bottom:60px;">Skip tutorial</a>
+  			</div>
 
 
  	</div>
-		<!--End of First Page-->
+		<!--End of website-->
 	</body>
 </html>
