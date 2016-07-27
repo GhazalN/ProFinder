@@ -40,13 +40,13 @@
 		<!-- First Page-->
 	   <div data-role="page" id= "FirstPage">
 			<div data-role="header">
-    			<h1>Pro Finder</h1>
+    			<h1>Welcome to Pro Finder!</h1>
   			</div>
   	<center>
   		<div data-role="main" class="ui-content">
-    		<p>If you are a first time user please click sign up, otherwise just insert your login information.</p>
+ 
 	<style> 
-	.ui-page{background-color:#5397BB}
+	.ui-page{background-color:#A2D3CD}
 	</style>
     		<div style= "width:500px; height:500px;">
     		<label for="textinput-2">Username:</label>
@@ -54,15 +54,14 @@
 			<label for="textinput-2">Password:</label>
 			<input type="text" name="textinput-2" id="Password" placeholder="Password" value="">
 			<input type="button" value="Enter">
-			<input type="button" value="Sign Up">
-			<input type="button" value="Forgot Login?"
+			<button <a href="" onclick= "window.location= 'firstpage.html'"> Sign Up </a> </button>
+			<input type="button" value="Forgot Login?" 
 			</div>
 
   		</div>
 	</center>
 	<!-- Only the footer-->	
 		<div data-role="footer">
-    		<h1>End of Page</h1>
   		</div>
 
   		</div>
