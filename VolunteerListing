@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>JQuery Tutorial</title>
+	<!-- Include meta tag to ensure proper rendering and touch zooming -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Include jQuery Mobile stylesheets -->
+	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+	<!-- Include the jQuery library -->
+	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+	<!-- Include the jQuery Mobile library -->
+	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+</head>
+
+<body>
+	<div data-role="page" id= "FirstPage">
+
+		<div data-role="header"> 
+			<h1>Volunteering</h1> 
+		</div>
+		
+	<style> 
+	.ui-page{background-color:#A2D3CD}
+	</style>
+
+		<div data-role="main" class="ui-content">
+			<center>
+			<div data-role="collapsible" style="width:600px;">
+				<h3>Environmental Oppurtunities</h3>
+				<p>Queens Botanical Garden: 29-40 Cherry Avenue Flushing NY
+					212-347-0987
+				<br>
+		
+			</div>
+			<div data-role="collapsible" style="width:600px;">
+					<h3>Education and Literacy</h3>
+					<p>Museum of Natural History: 445 East Broadway NY
+					718-997-3344
+					<br> Capital One Bank: 13-32 Flushing NY
+					718-112-2234
+			</div>
+		<div data-role="collapsible" style="width:600px;">
+					<h3>Computer and Technology</h3>
+					<p>Litens Burger Palace: 445 East Broadway NY
+					718-997-3344
+					<br>John's Pasta Shop: 13-32 Flushing NY
+					718-112-2234
+			</div>
+		<div data-role="collapsible" style="width:600px;">
+					<h3>Working With Animals</h3>
+					<p>TYWLS of Astoria: 23-15 Newtown Ave Astoria NY
+					718-997-3344
+					<br>PTL Day Care: 13-32 Manhattan NY
+					718-112-2234
+			</div>
+		<div data-role="collapsible" style="width:600px;">
+					<h3>Working With Seniors</h3>
+					<p>Connect Media Script Editor: 78-00 Bayside NY
+					718-997-3344
+					<br>Talihase Newspaper Writer: 147 6th Ave Manhattan NY
+					718-112-2234
+					<br>Dynamics Editor: 665 32nd Street NY 11762
+					516-674-0901
+			</div>
+		<div data-role="collapsible" style="width:600px;">
+					<h3>General Community</h3>
+					<p>Kumon Learning Center: 78-00 Astoria NY
+					718-997-3344
+					<br>ELA Daily Class: 192 8th Ave Manhattan NY
+					718-112-2234
+					<br>STEM Reach: 669 34nd Street NY 11762
+					516-674-0901
+					<br>JQ Everyday Learning: 13-90 Flushing NY 
+					718-887-6509
+					<br>Science Academy QRE: 45-10 Springfield Blvd Queens NY
+					347-113-4583
+					</p>
+			</div>
+
+			</center>
+		</div>
+	</div>
+</body>
+</html>
