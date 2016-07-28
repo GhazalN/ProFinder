@@ -25,6 +25,7 @@
 		.ui-page {background-color:#A2D3CD}
 	</style>
 
+<center>
 
 	<div data-role="page" id="SecondPage">
 
@@ -34,7 +35,8 @@
 		
 		</div>
 
-<div data-role="collapsible">
+<div data-role="collapsible"; style="width:500px;s">
+
    <h3 style="text-shadow:none; text-align:center">Technology Program</h3>
    <p style="text-shadow:none; text-align:center"> 
 
@@ -43,10 +45,6 @@
 		23-15 Newton Ave, Astoria, NY 11102<br>
 		(718)-267-2839<br>
 		<i><u>Website Link</u></i>
-		<br>
-		<br>
-
-	2. <i>Before School from 7:00-8:15am Tuesdays and Thursdays<br></i>
    
 
    </p>
@@ -54,7 +52,7 @@
 </div>
 
 
-<div data-role="collapsible">
+<div style="width:500px;" data-role="collapsible">
    <h3 style="text-shadow:none; text-align:center">Engineering and Math Program</h3>
    <p style="text-shadow:none; text-align:center"> 
    	<i>From 2:30-4:30pm Tuesdays and Thursdays<br></i>
@@ -62,15 +60,13 @@
 		30 Cooper Sq, New York, NY 10003<br>
 		(212)-353-4100<br>
 		<i><u>Website Link</u></i>
-		<br>
-		<br>
-  
+ 
    </p>
 
 </div>
 
 
-<div data-role="collapsible">
+<div style="width:500px;" data-role="collapsible">
 	<h3 style="text-shadow:none; text-align:center">Science Program</h3>
 	<p style="text-shadow:none; text-align:center">
 		<i>From 3:00-5:00pm Mondays and Wednesdays</i><br>
@@ -78,12 +74,12 @@
 		4020 Broadway, Long Island City, NY 11103<br> 
 		(718) 721-2462<br> 
 		<i><u>Website Link</u></i>
-		<br>
-		<br>
 
 	</p>
 
 </div>
+
+</center>
 
 
 
