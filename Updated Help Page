@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Help Page</title>
+
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
 		<link rel="stylesheet" type="text/css" href="helppage.css">	
@@ -9,13 +10,18 @@
 		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 	</head>
 	<body>
+		<style>
+		
+			.ui-overlay-a, 
+			.ui-page-theme-a, 
+			.ui-page-theme-a 
+			.ui-panel-wrapper {
+			background-color:#A2D3CD; }
+			
+		</style>
 		<!--Start of website-->
-		<div data-role="page" id="Help Page">
-
-			<div data-role="header">
-		   		<h1>Help Page</h1>
-		   	</div>
 		<center>
+		<h2 style="text-shadow:none;"> Help Page </h2> 
 		<i>
 			<h4 style="text-shadow:none;">Is the location necessary?</h4>
 		</i>
@@ -35,7 +41,22 @@
 		<i>
 			<h4 style="text-shadow:none;"> How can I edit my location if I made a mistake?</h4>
 		</i>
-		<p style="text-shadow:none;"> </p>
+		<p style="text-shadow:none;"> You can press the back button then go to the page where you were before and type the right information. The information you placed before is now erased. </p>
+
+		<i>
+			<h4 style="text-shadow:none;"> How can I go back to the home page?</h4>
+		</i>
+		<p style="text-shadow:none;"> You can press the logo, which is on the top left side of the page, that shall direct you to the home page. </p>
+
+		<i>
+			<h4 style="text-shadow:none;"> How can I refine my search for [Insert Category]? </h4>
+		</i>
+		<p style="text-shadow:none;"> After you choose the category you wanted, we will lead you right into a filter page where you can specify what you are looking for.</p>
+
+		<i>
+			<h4 style="text-shadow:none;">How/Can I communicate with the company?</h4>
+		</i>
+		<p style="text-shadow:none;"> We provided you with the companies information so that you may communicate with them.</p>
 
 	</center>
 		<!--End of website-->
