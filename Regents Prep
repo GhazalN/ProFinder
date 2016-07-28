@@ -4,34 +4,23 @@
 <head>
 
 	<title>Regents Prep</title>
-
-	<!-- Include meta tag to ensure proper rendering and touch zooming -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!-- Include jQuery Mobile stylesheets -->
 	<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
-
-	<!-- Include the jQuery library -->
 	<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
-
-	<!-- Include the jQuery Mobile library -->
 	<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 
 </head>
 
 <body>
+	<div data-role="page" id="Regents Prep">
+	<img src="http://image.prntscr.com/image/a061965a3fdb4e3c9ec00a3d1997ebd1.png" height="50" width="230">
 
 	<style>
-		.ui-page {background-color:#A2D3CD}
+		.ui-page-theme-a
+			{background-color:#A2D3CD;}
 	</style>
 
-
-	<div data-role="page" id="FirstPage">
-
-		<div data-role="header"> 
-		   <h1>RegentsPrep</h1>  
-		</div>
-
+	<h2 style="text-shadow:none; text-align:center">Regents Prep</h2>
 
 <div data-role="collapsible">
 
@@ -47,7 +36,7 @@
 		<br>
 </div> 
 
-<div data-role="collapsible">
+<div style="width:500px;" data-role="collapsible">
 
 	<h3 style="text-shadow:none; text-align:center">Science</h3>
  	  <p style="text-shadow:none; text-align:center"> 
@@ -89,6 +78,8 @@
 
 
 </html>
+
+
 
 
 
