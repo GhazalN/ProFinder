@@ -10,6 +10,15 @@
 		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 	</head>
 	<body>
+		<style>
+		
+			.ui-overlay-a, 
+			.ui-page-theme-a, 
+			.ui-page-theme-a 
+			.ui-panel-wrapper {
+			background-color: #e5b292; }
+			
+		</style>
 		<!--Contact Page-->
 		<center>
 		<div data-role="page" id="ContactPage">
