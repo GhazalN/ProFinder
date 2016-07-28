@@ -26,17 +26,13 @@
 	</style>
 
 	<!-- Second Page --> 
-	<div data-role="page" id="SecondPage">
 
-		<div data-role="header">
-		 
-		   <h1>Learning Programs</h1>   
-		
-		</div>
+	<h2 style="text-shadow:none; text-align:center">Learning Programs</h2>
+
 
 	<center><div style="width:500px;height:580px; margin-left: auto ; margin-right: auto;"><form>
 
-		<h4 style="text-shadow:none;">Courses</h4>
+		<i><h4 style="text-shadow:none;">Courses</h4></i>
 
 		<label>
 			<input type="checkbox" name="checkbox-0">English 
@@ -66,7 +62,7 @@
 			<input type="checkbox" name="checkbox-0">Technology  
 		</label>
 
-		<h4 style="text-shadow:none;">Time</h4>
+		<i><h4 style="text-shadow:none;">Time</h4></i>
 
 			<label>
 				<input type="checkbox" name="checkbox-0">Morning 
@@ -92,3 +88,5 @@
 </body> 
 
 </html>
+
+
