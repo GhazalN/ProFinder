@@ -20,43 +20,48 @@
 	<body>
 
 		<style>
-			.ui-page {background-color:#A2D3CD;}
-			p {margin: 100px;}
-
+			.ui-page-theme-a
+			{background-color:#A2D3CD;}
+			
 		</style>
 
 		<!--First Page-->
-		<div data-role="page" id="FirstPage">
 
-		<div data-role="header" style="margin-bottom:35px">
-		  <h1>Task Bar</h1>
-		</div>
-		
-		<center><div style="width:500px; margin-left: auto; margin-right: auto;" ><form>
+		<h2 style="text-shadow:none; text-align:center">Task Bar</h2>
 
-		<div data-role="controlgroup" data-type="vertical"><form>
+		<center><div style="width:500px; margin-left: auto; margin-right: auto;" >
+		<form>
 
-			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Jobs</button>
+		<div data-role="controlgroup" data-type="vertical">
+		<form>
+
+			<button href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Jobs</button>
 			
-			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Volunteer</button>
+			<button href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Volunteer</button>
 
-			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Learning Programs</button>
+			<button href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Learning Programs</button>
 
-			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Scholarships</button>
+			<button href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Scholarships</button>
 
-			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Internships</button>
+			<button href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Internships</button>
 
-			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">School Contests</button>
+			<button href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">School Contest</button>
+						  	
+		  	
 
 		</div></form>
 
-		</center>
-			<a href="index.html" data-role="button" data-inline="true" style="margin-left:350px; margin-top:25px;">Contact Us</a><a href="index.html" data-role="button" data-inline="true" style="margin-left:300px; margin-top:25px;">Help</a>
-
+		</center></form>
+		<a href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" data-role="button" data-inline="true" style="margin-left:380px; margin-top:8px;">Contact Us</a>
+		<a href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" data-role="button" data-inline="true" style="margin-left:320px; margin-top:8px;">Help</a>
 
 	</body>
 
 
 </html>
+
+
+
+
 
 
