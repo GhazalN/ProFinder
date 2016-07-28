@@ -16,30 +16,30 @@
 			.ui-page-theme-a, 
 			.ui-page-theme-a 
 			.ui-panel-wrapper {
-			background-color: #e5b292; }
+			background-color:#A2D3CD; }
 			
 		</style>
-		<!--Contact Page-->
+		<!--Start of website-->
 		<center>
 		<div data-role="page" id="ContactPage">
 
 			<div data-role="header">
-		   		<h1>Contact Us</h1>
+		   		<h1 style="text-shadow:none;">Contact Us</h1>
 		   	</div>
 		   	<div data-role="main" class="ui-content" style="width: 500px;">
 		   	    <form method="post" action="demoform.asp">
 		   	      <div class="ui-field-contain">
-		   	        <label for="fullname">Full name:</label>
-		   	        <input type="text" name="fullname" id="fullname" placeholder="Full name...">
-		   	        <label for="email">E-mail:</label>
-		   	        <input type="email" name="email" id="email" placeholder="Your email..">
-		   	        <label for="info">Your Message:</label>
+		   	        <label for="fullname" style="text-shadow:none">Full name:</label>
+		   	        <input type="text" name="fullname" id="fullname" style="text-shadow:none;">
+		   	        <label for="email" style="text-shadow:none;">E-mail:</label>
+		   	        <input type="email" name="email" id="email" style="text-shadow:none;">
+		   	        <label for="info" style="text-shadow:none;">Your Message:</label>
        			 <textarea name="addinfo" id="info"></textarea>
      			 </div>
    				 <input type="submit" data-inline="true" value="Submit">
 		   	     </form>
 		   	  </div>
-		   	  <p><i>Contact Us:</i>
+		   	  <p style="text-shadow:none;"><i>Contact Us:</i>
 		   	  	<br><br>
 		   	  	<i>Email: </i> profinder@gmail.com
 		   	  	<br><br>
@@ -56,7 +56,7 @@
 
 
 		</center>
-		<!--The rest of the website-->
+		<!--End of the website-->
 			
 	</body>	
 </html>
