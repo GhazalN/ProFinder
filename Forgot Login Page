@@ -25,12 +25,7 @@
 		.ui-page {background-color:#A2D3CD}
 	</style>
 
-	<div data-role="page" id="FirstPage">
-
-		<div data-role="header">
-		   <h1>Forgot Login</h1>
-
-	</div>
+		<h2 style="text-shadow:none; text-align:center">Forgot Login</h2>
 	
 	<div style="width:500px; height:500px; margin-left: auto; margin-right: auto;">
 
@@ -47,4 +42,5 @@
 
 
 </html>
+
 
