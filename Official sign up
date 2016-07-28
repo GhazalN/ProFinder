@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+	</head>
+	<body>
+	<style> 
+		.ui-page {background-color:#A2D3CD}
+
+	</style>
+		<!-- First Page-->
+				<div data-role="page" id="FirstPage">
+				<div data-role="header">
+				<h1>Pro Finder</h1>
+				</div>
+	<center>
+
+	<!-- The parts of the website will go here.-->
+			<style>
+			p {
+			text-shadow: none;
+		}
+
+		legend{
+
+			text-shadow:none;
+		}
+		</style>
+	<data-role="main" class="ui-content">
+		<p>Sign Up</p>
+
+	<div style="width:500px; height:500px;">
+		<label for="textinput-2"></label>
+<input type="text" name="textinput-2" id="textinput-2" placeholder="First Name" value="">
+
+		<label for="textinput-2"></label>
+<input type="text" name="textinput-2" id="textinput-2" placeholder="Username" value="">
+<fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+	<legend> Please insert your birthday:</legend>
+	<label for="select-h-6a">Select A</label>
+	<select name="select-h-6a" id="select-h-6a"> 
+		<option value="#">Month</option>
+		<option value="#">Jan</option>
+		<option value="#">Feb</option>
+		<option value="#">Mar</option>
+		<option value="#">Apr</option>
+		<option value="#">May</option>
+		<option value="#">Jun</option>
+		<option value="#">Jul</option>
+		<option value="#">Aug</option>
+		<option value="#">Sep</option>
+		<option value="#">Oct</option>
+		<option value="#">Nov</option>
+		<option value="#">Dec</option> 
+	<label for="select-h-b">Select C</label>
+	<select name="select-h-6b" id="select-h-6b">
+			<option value="#">One</option>
+			<option value="#">Two</option>
+			<option value="#">Three</option>
+		</select>
+		<label for="select-h-6c">Select C</label>
+		<select name="select-h-6c" id="select-h-6c">
+			<option value="#">Day</option>
+			<option value="#">1</option>
+			<option value="#">2</option>
+			<option value="#">3</option>
+			<option value="#">4</option>
+			<option value="#">5</option>
+			<option value="#">6</option>
+			<option value="#">7</option>
+			<option value="#">8</option>
+			<option value="#">9</option>
+			<option value="#">10</option>
+			<option value="#">11</option>
+			<option value="#">12</option>
+			<option value="#">13</option>
+			<option value="#">14</option>
+			<option value="#">15</option>
+			<option value="#">16</option>
+			<option value="#">17</option>
+			<option value="#">18</option>
+			<option value="#">19</option>
+			<option value="#">20</option>
+			<option value="#">21</option>
+			<option value="#">22</option>
+			<option value="#">23</option>
+			<option value="#">24</option>
+			<option value="#">25</option>
+			<option value="#">26</option>
+			<option value="#">27</option>
+			<option value="#">28</option>
+			<option value="#">29</option>
+			<option value="#">30</option>
+			<option value="#">31</option>
+			
+		<label for="select-h-b">Select C</label>
+	<select name="select-h-6b" id="select-h-6b">
+			<option value="#">One</option>
+			<option value="#">Two</option>
+			<option value="#">Three</option>
+		</select>
+		<label for="select-h-6c">Select C</label>
+		<select name="select-h-6c" id="select-h-6c">
+			<option value="#">Year</option>
+			<option value="#">1997</option>
+			<option value="#">1998</option>
+			<option value="#">1999</option>
+			<option value="#">2000</option>
+			<option value="#">2001</option>
+			<option value="#">2002</option>	
+			<option value="#">2003</option>
+			<option value="#">2004</option>
+
+		</select>
+	</fieldset>
+
+	<label for="textinput-2"></label>
+	<input type="text" name="textinput-2" placeholder="Home Address" value="">
+
+	<label for="textinput-2"></label>
+	<input type="text" name="textinput-2" placeholder="Email" value="">
+
+	<label for="textinput-2"></label>
+	<input type="text" name="textinput-2" id="textinput-2" placeholder="Phone Number" value="">
+
+<div>
+	<fieldset data-role="controlgroup" data-type="horizontal" data-mini="true">
+	<legend></legend>
+	<label for="select-h-6a">Select A</label>
+	<select name="select-h-6a" id="select-h-6a">
+		<option value="#">Distance willing to travel in miles</option>
+		<option value="#">2</option>
+		<option value="#">5</option>
+		<option value="#">7</option>
+		<option value="#">10</option>
+		<option value="#">13</option>
+		<option value="#">15+</option>
+		<option value="#">Any</option>
+	</select>
+</div>
+
+
+	
+
+	<div data-role="controlgroup" data-type="horizontal">
+		<a href="file:///Users/admin/Desktop/tutorial.html" class="ui-btn">Submit</a>
+
+
+</center>
+</div>
+	
+</div>
+
+
+
+ <div data-role="footer">
+ 	<h1> End of Page</h1>
+ </div> 
+
+	</fieldset>
+
+	
+
+
+
+
+	</fieldset>
+
+
+	
+	</body>
+	</html>
+		
