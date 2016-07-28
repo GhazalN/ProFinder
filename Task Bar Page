@@ -47,23 +47,16 @@
 			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">Internships</button>
 
 			<button href="file:///Users/NYCDOE/Downloads/1469663325_11.Notebook.svg" class="ui-btn ui-shadow ui-corner-all ui-btn-icon-left ui-icon-myicon">School Contests</button>
-						  	
-		  	<a href="index.html" data-role="button" data-inline="true" style="margin-left:180px; margin-top:8px;">Contact Us</a>
-		  	
-		  	<a href="index.html" data-role="button" data-inline="true" style="margin-right:180px; margin-top:8px;">Help</a>
 
 		</div></form>
 
-		</center></form>
+		</center>
+			<a href="index.html" data-role="button" data-inline="true" style="margin-left:350px; margin-top:25px;">Contact Us</a><a href="index.html" data-role="button" data-inline="true" style="margin-left:300px; margin-top:25px;">Help</a>
 
 
 	</body>
 
 
 </html>
-
-
-
-
 
 
