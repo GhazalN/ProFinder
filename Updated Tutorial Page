@@ -10,6 +10,15 @@
 	</head>
 
 	<body>
+		<style>
+		
+			.ui-overlay-a, 
+			.ui-page-theme-a, 
+			.ui-page-theme-a 
+			.ui-panel-wrapper {
+			background-color:#A2D3CD; }
+			
+		</style>
 		
 		<!--Start of website-->
 
@@ -20,7 +29,7 @@
 			<div data-role="main" class="ui-content">
 				<img src="http://image.prntscr.com/image/23d3f663a9084ebe960c1613ba79449b.png" height="50" width="230">   
 				<center>
- 			    		<img src="http://image.prntscr.com/image/e137025d746e4bb1b6bb1d1920ccf689.png" alt="Home screen" height="475" width="561">
+ 			    		<img src="http://image.prntscr.com/image/787879a0673a485699e6ba07215db264.png" alt="Home screen" height="450" width="660">
  			    </center>
  	
  			    <a href="#myPanel" class="ui-btn ui-btn-inline ui-corner-all ui-shadow"> Tutorial of the App</a>
