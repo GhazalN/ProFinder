@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>JQuery Tutorial</title>
+		<!-- Include meta tag to ensure proper rendering and touch zooming -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Include jQuery Mobile stylesheets -->
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+		<!-- Include the jQuery library -->
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+		<!-- Include the jQuery Mobile library -->
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+
+		<!-- <a href="WANTED URL GOES HERE"> LINK TEXT <a> -->
+
+	<style>
+
+			p{
+
+				text-shadow: none;
+			}
+
+			label{
+
+				text-shadow:none;
+
+			}
+
+
+
+	</style>
+
+	</head>
+
+	<body>
+		<!-- First Page-->
+	
+			<img src="http://image.prntscr.com/image/33bad1f9b8e14a8c8a8bb2ca2d8e0974.png" height="50" width="230">
+			<center>
+	   <h2>Welcome to Profinder<h2>
+  	
+  		<div data-role="main" class="ui-content">
+ 
+	<style> 
+	.ui-page{background-color:#A2D3CD}
+	</style>
+    		<div style= "width:500px; height:500px;">
+    		<label for="textinput-2">Username:</label>
+			<input type="text" name="textinput-1" id="userName" placeholder="Username" value="">
+
+			<label for="textinput-2">Password:</label>
+			<input type="text" name="textinput-2" id="Password" placeholder="Password" value="">
+
+			<button <a href="" onclick= "window.location= 'Taskbar.html'"> Enter </a> </button>
+			
+
+			<button <a href="" onclick= "window.location= 'officialsignup.html'"> Sign Up </a> </button>
+			<button <a href="" onclick= "window.location= 'forgotlogin.html'"> Forgot login? </a> </button>
+		 
+			</div>
+
+  		</div>
+	</center>
+	<!-- Only the footer-->	
+		<div data-role="footer">
+  		</div>
+
+  		</div>
+	</body>
+</html>
