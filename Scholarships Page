@@ -27,13 +27,11 @@
 	</style>
 
 	<!-- Third Page --> 
-	<div data-role="page" id="ThirdPage">
+	<img src="http://image.prntscr.com/image/33bad1f9b8e14a8c8a8bb2ca2d8e0974.png" height="50" width="230">
+	<center>
+		<h2>Scholarships<h2>
 
-		<div data-role="header">
-		   <h1>Scholarships</h1>   
-		</div>
-
-	<center><div style="width:500px;height:380px; margin-left: auto; margin-right: auto;"><form>
+	<div style="width:500px;height:380px; margin-left: auto; margin-right: auto;"><form>
 		
 		<label>
 			<input type="checkbox" name="checkbox-0">English
