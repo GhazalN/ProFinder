@@ -9,30 +9,27 @@
 
 	<body>
 		<style> 
-		.ui-page {background-color:#B0C4DE}
+		.ui-page {background-color:#A2D3CD}
 		</style>
 
 
 
 	
 		<!-- First Page-->
-		<div data-role="page" id="FirstPage">
-			<div data-role="header">
-				<h1>Internships</h1>
-			</div>
-
+		<img src="http://image.prntscr.com/image/33bad1f9b8e14a8c8a8bb2ca2d8e0974.png" height="50" width="230">
 		<center>
+		<h2>Internships</h2>
+
+		
 	<!-- The parts of the website will go here.-->
 	<data-role="main" class="ui-content">
-		<p>Filter Your Search!</p>
+		
 
 		<div style="width:500px; height:500px;">
 
 	<fieldset data-role="controlgroup">
 		<input type="checkbox" name="checkbox-v-2a" id="checkbox-v-2a">
 		<label for="checkbox-v-2a">High school Students</label>
-		<input type="checkbox" name="checkbox-v-2b" id="checkbox-v-2b">
-		<label for="checkbox-v-2b">College Students</label>
 		<input type="checkbox" name="checkbox-v-2c" id="checkbox-v-2c">
 		<label for="checkbox-v-2c">Paid</label>
 		<input type="checkbox" name="checkbox-v-2d" id="checkbox-v-2d">
