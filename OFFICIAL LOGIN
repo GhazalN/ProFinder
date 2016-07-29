@@ -55,7 +55,7 @@
 			<label for="textinput-2">Password:</label>
 			<input type="text" name="textinput-2" id="Password" placeholder="Password" value="">
 
-			<button <a href="" onclick= "window.location= 'Taskbar.html'"> Enter </a> </button>
+			<button <a href="" onclick= "window.location= 'officialtaskbar.html'"> Enter </a> </button>
 			
 
 			<button <a href="" onclick= "window.location= 'officialsignup.html'"> Sign Up </a> </button>
