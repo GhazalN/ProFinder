@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head> 
+		<title>JQuery Tutorial</title>
+
+		<!-- Include meta tag to ensure proper rendering and touch zooming -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<!-- Include jQuery Mobile stylesheets -->
+		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css">
+
+		<!-- Include the jQuery library -->
+		<script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+
+		<!-- Include the jQuery Mobile library -->
+		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+
+	</head>
+
+	<body>
+
+		<style>
+			.ui-page-theme-a
+			{background-color:#A2D3CD;}
+			
+		</style>
+
+		<!--First Page-->
+
+		<h2 style="text-shadow:none; text-align:center">Task Bar</h2>
+
+		<center><div style="width:500px; margin-left: auto; margin-right: auto;" >
+		<form>
+
+		<div data-role="controlgroup" data-type="vertical">
+		<form>
+
+			<button data-icon="arrow-u-r">Jobs</button>
+			
+			<button data-icon="arrow-u-r">Volunteer</button>
+
+			<button data-icon="arrow-u-r">Learning Programs</button>
+
+			<button data-icon="arrow-u-r">Scholarships</button>
+
+			<button data-icon="arrow-u-r">Internships</button>
+
+			<button data-icon="arrow-u-r">School Contest</button>
+						  	
+
+		</div></form>
+
+		</center></form>
+		<a href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" data-role="button" data-inline="true" style="margin-left:380px; margin-top:8px;">Contact Us</a>
+		<a href="https://cdn4.iconfinder.com/data/icons/48-bubbles/48/11.Notebook-128.png" data-role="button" data-inline="true" style="margin-left:320px; margin-top:8px;">Help</a>
+
+	</body>
+
+
+</html>
+
+
+
+
+
+
