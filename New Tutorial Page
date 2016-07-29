@@ -46,7 +46,7 @@
 
  			 	</div>
  			 <div data-role="main" class="ui-content">
- 			 	<a href="#skiptutorial" class="ui-btn ui-btn-inline" style="margin-left:1100px;">Skip tutorial</a>
+ 			 	<a href="officialtaskbar.html" class="ui-btn ui-btn-inline" style="margin-left:1100px;">Skip tutorial</a>
   			</div>
 
 
@@ -54,3 +54,9 @@
 		<!--End of website-->
 	</body>
 </html>
+
+
+
+
+
+
